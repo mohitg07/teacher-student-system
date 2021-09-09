@@ -1,0 +1,34 @@
+h1 {
+  margin: 20px 10px 10px 10px;
+}
+
+label {
+  margin: 10px
+}
+
+#home{
+  margin: 30px 5% 30px 30%;
+}
+
+#filter{
+  margin: 30px 10% 30px 10%;
+}
+
+#student-form {
+  border: 2px solid black;
+  width: fit-content;
+  padding: 10px;
+  margin: 50px auto;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  font-weight: bold;
+}
+
+#save-btn {
+  margin: 30px 32% 10px 32%;
+}
+
+#save-btn:hover {
+  font-weight: bold;
+}

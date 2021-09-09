@@ -11,7 +11,7 @@ I have used the following technologies:
 7) HTML
 8) CSS
 
-Following are the REST APIs exposed:
+Following are the REST APIs exposed via ExpressJS:
 1) /createStudent (POST request)
    POST body will be like :
     {name: abc,
